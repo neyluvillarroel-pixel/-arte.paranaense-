@@ -52,3 +52,7 @@ section{
     padding: 20px;
     border-radius:12px;
 }
+figcaption {
+    text-align: center;
+    font- sizer: 14px
+}
