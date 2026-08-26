@@ -1,24 +1,23 @@
 body {
-    background-color: rgb(211, 211, 219);
-    color: #7FA653
+    background-color: #f4f1ea;
+    color: #222222;
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: rgb(187, 137, 235);
-    color: rgb(214, 214, 235);
+    background-color: #6b2d5c;
+    color: white;
     text-align: center;
     padding: 30px;
-
 }
 
 h1 {
-    font-size: 36px
+    font-size: 36px;
 }
 
 h2 {
-    color: black;
+    color: #6b2d5c;
 }
 
 p {
@@ -31,17 +30,17 @@ nav {
 }
 
 nav a {
-    color: rgb(158, 83, 49);
+    color: white;
     text-decoration: none;
-    background-color: black;
+    background-color: #9b4d83;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
-    display: inline- block;
+    display: inline-block;
 }
 
 nav a:hover {
-    background-color: rgb(216, 216, 233);
+    background-color: #c77dff;
 }
 
 main {
@@ -67,16 +66,16 @@ img {
 figcaption {
     text-align: center;
     font-size: 14px;
-    color: #cc9e9e;
+    color: #555555;
     margin-top: 8px;
 }
 
 .card {
-    background-color: 15px;
+    background-color: #f3d9fa;
+    padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #e97cce;
+    border-left: 6px solid #6b2d5c;
     border-radius: 10px;
-
 }
 
 .card h3 {
@@ -84,8 +83,8 @@ figcaption {
 }
 
 footer {
-    background-color: rgb(203, 159, 245);
-    color: rgb(238, 238, 190);
+    background-color: #222222;
+    color: white;
     text-align: center;
     padding: 20px;
     margin-top: 30px;
