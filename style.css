@@ -1,5 +1,5 @@
 body {
-    background-color: #e7d1a0;
+    background-color: #fa9aea;
     color: #222222;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -30,7 +30,7 @@ nav {
 }
 
 nav a {
-    color: rgb(236, 80, 80);
+    color: rgb(26, 25, 25);
     text-decoration: none;
     background-color: #9b4d83;
     padding: 10px 15px;
@@ -49,7 +49,7 @@ main {
 }
 
 section {
-    background-color: rgb(238, 209, 209);
+    background-color: rgb(250, 122, 229);
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
