@@ -1,13 +1,13 @@
 body {
-    background-color: #111111;
-    color: #131212;
+    background-color: #504c4c;
+    color: #2b2727;
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header {
     background-color: #b44bf1;
-    color: rgb(12, 11, 11);
+    color: rgb(54, 47, 47);
     text-align: center;
     padding: 30px;
 }
@@ -30,7 +30,7 @@ nav {
 }
 
 nav a {
-    color: rgb(26, 25, 25);
+    color: rgb(75, 65, 65);
     text-decoration: none;
     background-color: #b14a8f;
     padding: 10px 15px;
