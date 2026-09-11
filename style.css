@@ -66,7 +66,7 @@ img {
 figcaption {
     text-align: center;
     font-size: 14px;
-    color: #292727;
+    color: #0f0f0f;
     margin-top: 8px;
 }
 
@@ -83,7 +83,7 @@ figcaption {
 }
 
 footer {
-    background-color: #222222;
+    background-color: #0f0f0f;
     color: white;
     text-align: center;
     padding: 20px;
