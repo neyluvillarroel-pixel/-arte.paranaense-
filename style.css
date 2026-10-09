@@ -1,3 +1,4 @@
+
 :root{
     --cor-fundo:#f4f1ea;
     --cor-texto:#222222;
@@ -9,8 +10,6 @@
     --cor-legenda:#555555;
     --cor-clara:white;
     --cor-rodape:#222222;
-
-
 }
 body {
     background-color: rgb(101, 90, 124);
