@@ -43,9 +43,9 @@ nav {
 }
 
 nav a {
-    color: rgb(0, 0, 0);
+    color: var(--cor-clara);
     text-decoration: none;
-    background-color: #e9a1d1;
+    background-color: var(--cor-secundaria);
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -53,7 +53,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #d4a7f7;
+    background-color: var(--cor-hover);
 }
 
 main {
@@ -62,7 +62,7 @@ main {
 }
 
 section {
-    background-color: rgb(253, 241, 226);
+    background-color: var(--cor-superficiae);
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
@@ -84,10 +84,10 @@ figcaption {
 }
 
 .card {
-    background-color: #f3d9fa;
+    background-color: var(--cor-card);
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #e99fd6;
+    border-left: 6px solid var(--cor-principal);
     border-radius: 10px;
 }
 
@@ -96,8 +96,8 @@ figcaption {
 }
 
 footer {
-    background-color: #141414;
-    color: white;
+    background-color: var(--cor-rodape);
+    color: var(--cor-clara);
     text-align: center;
     padding: 20px;
     margin-top: 30px;
@@ -105,8 +105,8 @@ footer {
 }
 
 button {
-    background-color: #b532f1;
-    color: #000000;
+    background-color: var(--cor-principal);
+    color: var(--cor-clara);
     border: none;
     padding: 10px 15px;
     border-radius: 8px;
@@ -114,7 +114,7 @@ button {
 }
 
 button:hover {
-    background-color: (101, 90, 124);
+    background-color: var(--cor-hover);
 }
 
 .curtir {
