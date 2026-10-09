@@ -19,7 +19,7 @@ body {
 }
 
 header {
-    background-color: var(--cor-pincipal);
+    background-color: var(--cor-principal);
     color: var(--cor-clara);
     text-align: center;
     padding: 30px;
